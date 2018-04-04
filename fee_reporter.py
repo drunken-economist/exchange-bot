@@ -15,4 +15,3 @@ def fee_generator(filename):
                 'comment': exchange_comment
                 }
         return fees
-print(fee_generator('exchange_fee_schedule.txt'))
