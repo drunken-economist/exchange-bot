@@ -1,0 +1,43 @@
+EXCHANGE;FEE;COMMENTS
+AMEX (Pro);$23 ;
+CBOE Indices;$5 ;
+CBOT;$90 ;Includes KCBT market data
+CBOT e-mini;$20 ;
+CBOT Snapshot;$15 ;
+"CBOT (Trading, NonPro) Level 1";$1 ;"Bundle CBOT, CME, COMEX & NYMEX for $3"
+"CBOT (Trading, NonPro) Level 2";$5 ;"Bundle CBOT, CME, COMEX & NYMEX for $15"
+CFE;$15 ;
+"CFE Market Depth, includes Last Sale";$20 ;
+(Non-Pro & Pro);;
+CME;$90 ;
+CME e-mini;$40 ;
+CME Clearport;Included with NYMEX;
+"CME (Trading, NonPro) Level 1";$1 ;"Bundle CBOT, CME, COMEX & NYMEX for $3"
+"CME (Trading, NonPro) Level 2";$5 ;"Bundle CBOT, CME, COMEX & NYMEX for $15"
+COMEX;$90 ;
+COMEX e-mini;$20/yr;
+"COMEX (Trading, NonPro) Level 1";$1 ;"Bundle CBOT, CME, COMEX & NYMEX for $3"
+"COMEX (Trading, NonPro) Level 2";$5 ;"Bundle CBOT, CME, COMEX & NYMEX for $15"
+Dow Jones Indices;$5 ;
+"Eurex (Non-Pro, Level 1 and 2)";$20 ;
+"Eurex (Pro, Level 1 and 2)";$80 ;
+Euronext Commodities;$25 ;
+Euronext Indices;$55 ;
+Forex;$20 ;
+ICE Europe - Commodities;$110 ;
+ICE Europe - Financials;$110 ;
+ICE Canada;$35 ;
+ICE U.S.;$110 ;
+LIFFE;$110 ;
+London Metals Exchange;$65 ($20 delayed);
+MGEX;$30 ;
+NASDAQ (Pro);$25 ;
+NASDAQ Indices;$5 ;
+NYMEX;$90 ;
+NYMEX e-mini;$30 ;
+"NYMEX (Trading, Non-Pro) Level 1";$1 ;"Bundle CBOT, CME, COMEX & NYMEX for $3"
+"NYMEX (Trading, Non-Pro) Level 2";$5 ;"Bundle CBOT, CME, COMEX & NYMEX for $15"
+NYSE (Pro);# of devices;1-2 = $45 3-999 = $27 "1,000+ = $23" "10,000+ = $19"
+S&P Indices;$5 ;
+US Equities (Non-Pro);$10 ;"Bundle CBOT, CME, COMEX & NYMEX for $15"
+Includes select Market Indices*;;
